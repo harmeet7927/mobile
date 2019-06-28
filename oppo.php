@@ -1,1 +1,1 @@
-<?php echo "Changes in branch nokia"; ?>
+<?php echo "Changes in branch nokia and samsung tooo"; ?>
